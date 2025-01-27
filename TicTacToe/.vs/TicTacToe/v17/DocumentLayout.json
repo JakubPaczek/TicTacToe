@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7D72DE-C927-4AE5-ADE7-9D6E30122E0B}|Tests\\Tests.csproj|c:\\users\\jakub paczek\\desktop\\tictactoe\\tests\\tictactoetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7D72DE-C927-4AE5-ADE7-9D6E30122E0B}|Tests\\Tests.csproj|solutionrelative:tests\\tictactoetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|c:\\users\\jakub paczek\\desktop\\tictactoe\\tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|c:\\users\\jakub paczek\\desktop\\tictactoe\\tictactoe\\tictactoe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\tictactoe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|c:\\users\\jakub paczek\\desktop\\tictactoe\\tictactoe\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|c:\\users\\jakub paczek\\desktop\\tictactoe\\tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7D72DE-C927-4AE5-ADE7-9D6E30122E0B}|Tests\\Tests.csproj|c:\\users\\jakub paczek\\desktop\\tictactoe\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F7D72DE-C927-4AE5-ADE7-9D6E30122E0B}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jakub Paczek\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|c:\\users\\jakub paczek\\desktop\\tictactoe\\tictactoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E678C86F-5487-49FF-B1CF-3CFBD1BE2905}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTacToeTest.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\Tests\\TicTacToeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\TicTacToeTest.cs",
+              "ToolTip": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\Tests\\TicTacToeTest.cs",
+              "RelativeToolTip": "Tests\\TicTacToeTest.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAgwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:13:00.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAkwMkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:43:41.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub Paczek\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\Jakub Paczek\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:32:22.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tests",
+              "DocumentMoniker": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T21:46:39.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\AssemblyInfo.cs",
+              "RelativeToolTip": "TicTacToe\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:45:36.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicTacToe.csproj",
+              "DocumentMoniker": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+              "RelativeDocumentMoniker": "TicTacToe\\TicTacToe.csproj",
+              "ToolTip": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+              "RelativeToolTip": "TicTacToe\\TicTacToe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T14:12:30.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T10:43:45.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFQHAAAAAAAAAAAiwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-27T21:42:24.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\App.xaml",
+              "RelativeDocumentMoniker": "TicTacToe\\App.xaml",
+              "ToolTip": "C:\\Users\\Jakub Paczek\\Desktop\\TicTacToe\\TicTacToe\\App.xaml",
+              "RelativeToolTip": "TicTacToe\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T10:45:39.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
