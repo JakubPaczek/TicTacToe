@@ -1,5 +1,4 @@
-﻿using System.Linq;
-using System.Windows.Controls;
+﻿using System.Windows.Controls;
 using System.Windows;
 
 namespace TicTacToe
@@ -171,8 +170,6 @@ namespace TicTacToe
 
             foreach (var condition in winConditions)
             {
-                System.Diagnostics.Debug.WriteLine($"Sprawdzanie warunku: {condition[0]}, {condition[1]}, {condition[2]}");
-
                 if (condition[0] == player && condition[1] == player && condition[2] == player)
                 {
                     return true;
